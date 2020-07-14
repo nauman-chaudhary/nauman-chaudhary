@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+I'm busy working, maybe later.
+![That's me coding](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 <!--
 **nauman-chaudhary/nauman-chaudhary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
