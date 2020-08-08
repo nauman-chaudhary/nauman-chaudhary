@@ -1,7 +1,14 @@
 ### Hi there 👋
-That's a cool feature.😄  
-![](https://media.giphy.com/media/DpNrB4a210Qg0/giphy.gif)
+I'm Nauman, a Machine Learning Engineer @ [Arbisoft](https://arbisoft.com/)  
+<div style="width:100%;height:0;padding-bottom:70%;position:relative;"><iframe src="https://giphy.com/embed/OnJLRvXvAmvPW" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/tired-OnJLRvXvAmvPW">via GIPHY</a></p>
+- 🔭 I’m currently working on a platform to revolutionize legal research with the help of AI.
+- 👯 I’m always open to interesting collaborations, so ping me if you have something.
+You can reach me ![Twitter Follow](https://img.shields.io/twitter/follow/uchihachaudhary?style=social) 
 
+
+
+
+![](https://miro.medium.com/max/1600/0*CHs47eo87tMPd_-q.gif) 
 <!--
 **nauman-chaudhary/nauman-chaudhary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
