@@ -3,7 +3,6 @@ I'm Nauman, a Machine Learning Engineer @ [Arbisoft](https://arbisoft.com/)
 - 🔭 I’m currently working on a platform to revolutionize legal research with the help of AI.  
 - 👯 I’m always open to interesting collaborations, so ping me if you have something.  
 ![](/src/plots.gif "Plots gif")  
-_Work in progress_
 <!--
 **nauman-chaudhary/nauman-chaudhary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
