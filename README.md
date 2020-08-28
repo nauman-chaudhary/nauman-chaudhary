@@ -4,7 +4,9 @@ I'm Nauman, a Machine Learning Engineer @ [Arbisoft](https://arbisoft.com/)
 - 👯 I’m always open to interesting collaborations, so ping me if you have something.  
 
 
-[![My stats](https://github-readme-stats.vercel.app/api?username=nauman-chaudhary)](https://github.com/nauman-chaudhary/github-readme-stats&count_private=true)
+[![My stats](https://github-readme-stats.vercel.app/api?username=nauman-chaudhary)](https://github.com/nauman-chaudhary/github-readme-stats&count_private=true)  
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nauman-chaudhary&layout=compact)](https://github.com/nauman-chaudhary/github-readme-stats)  
 
 
