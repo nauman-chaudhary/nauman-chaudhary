@@ -1,5 +1,7 @@
 ### Hi there 👋  
 I'm Nauman, a Machine Learning Engineer @ [Arbisoft](https://arbisoft.com/)  
+
+<!--
 - 🔭 I’m currently working on a platform to revolutionize legal research with the help of AI.  
 - 👯 I’m always open to interesting collaborations, so ping me if you have something.  
 
@@ -11,7 +13,6 @@ I'm Nauman, a Machine Learning Engineer @ [Arbisoft](https://arbisoft.com/)
 
 [![](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fuchihachaudhary)](https://twitter.com/uchihachaudhary)
 
-<!--
 **nauman-chaudhary/nauman-chaudhary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
