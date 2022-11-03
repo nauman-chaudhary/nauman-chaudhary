@@ -1,7 +1,7 @@
 ### Hi there 👋  
 I'm Nauman, a Software Development Engineer @ [noon](https://noon.com)  
 
-Past Experiences:
+Past Experiences:  
 2018 - 2021: Machine Learning Engineer @ [Arbisoft](https://arbisoft.com)  
 2021 - Present: noon
 <!--
