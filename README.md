@@ -1,6 +1,9 @@
 ### Hi there 👋  
-I'm Nauman, a Machine Learning Engineer @ [Arbisoft](https://arbisoft.com/)  
+I'm Nauman, a Software Development Engineer @ [noon](https://noon.com)  
 
+Past Experiences:
+2018 - 2021: Machine Learning Engineer @ [Arbisoft](https://arbisoft.com)  
+2021 - Present: noon
 <!--
 - 🔭 I’m currently working on a platform to revolutionize legal research with the help of AI.  
 - 👯 I’m always open to interesting collaborations, so ping me if you have something.  
