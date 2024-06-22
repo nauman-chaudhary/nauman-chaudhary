@@ -15,7 +15,7 @@ Here are some technologies I use:
 ![Google BigQuery](https://img.shields.io/badge/Google%20BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=fff)
 ![Google Cloud Spanner](https://img.shields.io/badge/Google%20Cloud%20Spanner-4285F4?logo=googlecloudspanner&logoColor=fff&style=flat-square)
 ![Pydantic Badge](https://img.shields.io/badge/Pydantic-E92063?logo=pydantic&logoColor=fff&style=flat-square)
-![Go-lang](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=flat-square)
+<!--  ![Go-lang](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=flat-square)  -->
 
 
 #### Past Experiences:  
