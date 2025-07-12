@@ -1,5 +1,5 @@
 ### Hi there 👋  
-I'm Nauman, a Tech Lead @ [noon](https://noon.com)  
+I'm Nauman, Tech Lead @ T&S & UGC Squad @ [noon](https://noon.com)  
 
 [![Linkedin Badge](https://img.shields.io/badge/-Nauman_Naeem-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nauman-naeem/)](https://www.linkedin.com/in/haany-ali) [![Gmail Badge](https://img.shields.io/badge/-naumannaeem414[at]gmail[dot]com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:naumannaeem414@gmail.com)](mailto:naumannaeem414@gmail.com) <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=nauman-chaudhary" alt="¯\_(ツ)_/¯" /> </p> -->
 
